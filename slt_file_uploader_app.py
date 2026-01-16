@@ -14,4 +14,3 @@ if uploaded_file is not None:
   st.write(df.describe())
 else:
   st.info('☝️ Upload a CSV file')
-
